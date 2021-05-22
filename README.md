@@ -2,7 +2,7 @@
 
 Short demo on building, testing and optimizing a trading strategy using Freqtrade.
 
-The DevBootstrap YouTube screencast supporting this repo is [here](https://youtu.be/ui5r1Vw6NWc). Enjoy! :)
+The DevBootstrap YouTube screencast supporting this repo is [here](https://www.youtube.com/watch?v=wq3uLSDJxUQ). Enjoy! :)
 
 ## Alias Docker-Compose Command
 
